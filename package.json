@@ -1,0 +1,11 @@
+{
+  "name": "webpack-module-federation",
+  "version": "1.0.0",
+  "description": "Webpack Module Federation",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.5.0"
+  }
+}
